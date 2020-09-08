@@ -30,9 +30,8 @@
 
 ## Nykxxx Github Stats
 
-  <img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
+<img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
   
-<br />
 
 ## Nykxxx Recent Github Activity 👋
   
