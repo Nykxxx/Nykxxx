@@ -28,11 +28,6 @@
 <br />
 <br />
 
-## Nykxxx Github Stats
-
-<img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
-  
-
 ## Nykxxx Recent Github Activity 👋
   
 <!--START_SECTION:activity-->
@@ -40,6 +35,10 @@
 1. 💪 Menu Personal 1.0 [#RageUI](https://github.com/iTexZoz/RageUI)   on   [Nykxxx/nykxx_menupersonal](https://github.com/Nykxxx/nykxx_menupersonal)
 
 <!--END_SECTION:activity-->
+
+## Nykxxx Github Stats
+
+<img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
 
 
 
