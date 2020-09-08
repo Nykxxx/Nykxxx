@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning LUA , HTML5 , CSS3 🤣
 
 ### My Spotify 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nykxxx Spotify Playing" width="350" />](https://open.spotify.com/user/grt8saxt4h2vruj9ppjno2kwl?si=bvh6HorYSjKsZ-E2UqKtTw)
+[<img src="https://api.spotify.com/v1/Nykxxx/player/currently-playing" alt="Nykxxx Spotify Playing" width="350" />](https://open.spotify.com/user/grt8saxt4h2vruj9ppjno2kwl?si=bvh6HorYSjKsZ-E2UqKtTw)
 
 ### Connect with me:
 
