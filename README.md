@@ -37,13 +37,15 @@
 <!--END_SECTION:activity-->
 
 </details>
+--
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.nykxxx.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
 
 </details>
+
 
 [twitter]: https://twitter.com/Nykxxxxxxx
 [youtube]: https://www.youtube.com/channel/UCeO61vKY-ia9uL8hJI-IDBQ?view_as=subscriber
