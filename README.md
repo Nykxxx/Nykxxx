@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning LUA , HTML5 , CSS3 🤣
 
 ### My Spotify 🎧
-[<img src="https://open.spotify.com/user/grt8saxt4h2vruj9ppjno2kwl?si=bvh6HorYSjKsZ-E2UqKtTw" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/grt8saxt4h2vruj9ppjno2kwl?si=bvh6HorYSjKsZ-E2UqKtTw)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nykxxx Spotify Playing" width="350" />](https://open.spotify.com/user/grt8saxt4h2vruj9ppjno2kwl?si=bvh6HorYSjKsZ-E2UqKtTw)
 
 ### Connect with me:
 
@@ -32,7 +32,8 @@
   <summary>:zap: Recent Github Activity 👋</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Menu Personal 1.0 [#6](https://github.com/iTexZoz/RageUI) in [Nykxxx/nykxx_menupersonal](https://github.com/Nykxxx/nykxx_menupersonal)
+
+1. 💪 Menu Personal 1.0 [#RageUI](https://github.com/iTexZoz/RageUI)   on   [Nykxxx/nykxx_menupersonal](https://github.com/Nykxxx/nykxx_menupersonal)
 <!--END_SECTION:activity-->
 
 </details>
@@ -40,7 +41,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.Nykxxx.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.Nykxxx.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
 
 </details>
 
