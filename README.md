@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning LUA , HTML5 , CSS3 🤣
 
 ### My Spotify 🎧
-[<img src="https://api.spotify.com/v1/Nykxxx/player/currently-playing" alt="Nykxxx Spotify Playing" width="350" />](https://open.spotify.com/user/grt8saxt4h2vruj9ppjno2kwl?si=bvh6HorYSjKsZ-E2UqKtTw)
+[<img src="https://images.vexels.com/media/users/3/137413/isolated/preview/4acb8e52632aa9b7c874b878eaf02bc4-spotify-icon-logo-by-vexels.png" alt="Nykxxx Spotify Playing" width="350" />](https://open.spotify.com/user/grt8saxt4h2vruj9ppjno2kwl?si=bvh6HorYSjKsZ-E2UqKtTw)
 
 ### Connect with me:
 
