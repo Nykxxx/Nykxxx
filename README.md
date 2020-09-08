@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.Nykxxx.vercel.app/api?username=Nykxxx&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nykxxx's Github Stats" src="https://github-readme-stats.vercel.app/apinykxxx=anuraghazra" />
 
 </details>
 
